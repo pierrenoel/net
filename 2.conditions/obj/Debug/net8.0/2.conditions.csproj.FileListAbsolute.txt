@@ -1,0 +1,15 @@
+C:\Users\BeCode\Desktop\net\2.conditions\bin\Debug\net8.0\2.conditions.exe
+C:\Users\BeCode\Desktop\net\2.conditions\bin\Debug\net8.0\2.conditions.deps.json
+C:\Users\BeCode\Desktop\net\2.conditions\bin\Debug\net8.0\2.conditions.runtimeconfig.json
+C:\Users\BeCode\Desktop\net\2.conditions\bin\Debug\net8.0\2.conditions.dll
+C:\Users\BeCode\Desktop\net\2.conditions\bin\Debug\net8.0\2.conditions.pdb
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.AssemblyInfoInputs.cache
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.AssemblyInfo.cs
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.csproj.CoreCompileInputs.cache
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.sourcelink.json
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.dll
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\refint\2.conditions.dll
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.pdb
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\2.conditions.genruntimeconfig.cache
+C:\Users\BeCode\Desktop\net\2.conditions\obj\Debug\net8.0\ref\2.conditions.dll

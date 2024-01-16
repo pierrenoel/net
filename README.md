@@ -18,3 +18,4 @@ But we can initiate a new dotnet project in a existing folder.
 ## Let's Discover C# Through My Own Learning Path
 
 - [1.variables](1.variables/readme.md)
+- [2.conditions](2.conditions/readme.md)
