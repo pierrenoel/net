@@ -51,7 +51,27 @@ else if(n >= 5 && n <= 8) Console.WriteLine("5 to 8");
 else Console.WriteLine("9 to 10");
 ```
 
-## Break statement
-
-
 ## Switch
+
+If there are more than 1 else if, using the switch is a best chose
+
+```cs
+
+string name = "John";
+string grade = "Manager";
+
+switch(grade)
+{
+    case "Manager":
+        Console.WriteLine("You are a manager");
+        break;
+    case "CTO":
+        Console.WriteLine("You're a cto");
+        break;
+    //...
+    default:
+        Console.log("You're an employee");
+        break;
+}
+
+```

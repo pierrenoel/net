@@ -1,0 +1,15 @@
+C:\Users\BeCode\Desktop\net\3.arrays\bin\Debug\net8.0\3.arrays.exe
+C:\Users\BeCode\Desktop\net\3.arrays\bin\Debug\net8.0\3.arrays.deps.json
+C:\Users\BeCode\Desktop\net\3.arrays\bin\Debug\net8.0\3.arrays.runtimeconfig.json
+C:\Users\BeCode\Desktop\net\3.arrays\bin\Debug\net8.0\3.arrays.dll
+C:\Users\BeCode\Desktop\net\3.arrays\bin\Debug\net8.0\3.arrays.pdb
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.AssemblyInfoInputs.cache
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.AssemblyInfo.cs
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.csproj.CoreCompileInputs.cache
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.sourcelink.json
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.dll
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\refint\3.arrays.dll
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.pdb
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\3.arrays.genruntimeconfig.cache
+C:\Users\BeCode\Desktop\net\3.arrays\obj\Debug\net8.0\ref\3.arrays.dll
