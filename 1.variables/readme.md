@@ -5,8 +5,9 @@ There are different type of variable. We have **string**, **char**, **int**, **d
 ## Let us see how we declare a typed variable and assign a value.
 
 | type    | name | = | value |
-| --------| -------- | ------|
+| --------| -----|---| ------|
 | int     | age  | = | 23    |
+
 
 ```cs
 int age // 1. declaration
