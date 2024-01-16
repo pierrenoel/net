@@ -30,41 +30,30 @@ double y = 21.223;
 float z = 48.3;
 ```
 
-Notice: 
+Note: 
 - Simple quote is used for the **char** variable
 - Double quote is used for the **string** variable
 
 ## Console our variables
 
 ```cs
-string name = "Pierre";
+string name = "John";
 
-Console.WriteLine(name); // Displays "Pierre"
+Console.WriteLine(name); // Displays "John"
+
+// OR
+Console.Write("Hello" );
+Console.Write(name); // display "Hello John"
 ```
 
-### Explanation
+# $ Interpolation
 
-- Console : is a **class** in the dotnet framework (thanks)
-- WriteLine() : is a **method** of the class **Console**
-
+>The $ character identifies a string literal as an >interpolated string. An interpolated string is a string >literal that might contain interpolation expressions. When an >interpolated string is resolved to a result string, items >with interpolation expressions are replaced by the string >representations of the expression results.
 
 ```cs
-Console.WriteLine("Hello"); 
-Console.WriteLine(name);
+string name = "John";
+int age = 23;
 
-/*
-Hello
-Pierre
-*/
-
-// You can delete the "line" and call the method Write only, look
-
-Console.Write("Hello "); 
-Console.Write(name);
-
-// Hello Pierre
-
+Console.WriteLine($"Hello {name}, you are { age } old");
 ```
-
-
 

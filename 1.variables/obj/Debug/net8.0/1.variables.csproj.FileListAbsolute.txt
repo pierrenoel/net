@@ -1,0 +1,15 @@
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.AssemblyInfoInputs.cache
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.AssemblyInfo.cs
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.csproj.CoreCompileInputs.cache
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.sourcelink.json
+C:\Users\BeCode\Desktop\net\1.variables\bin\Debug\net8.0\1.variables.exe
+C:\Users\BeCode\Desktop\net\1.variables\bin\Debug\net8.0\1.variables.deps.json
+C:\Users\BeCode\Desktop\net\1.variables\bin\Debug\net8.0\1.variables.runtimeconfig.json
+C:\Users\BeCode\Desktop\net\1.variables\bin\Debug\net8.0\1.variables.dll
+C:\Users\BeCode\Desktop\net\1.variables\bin\Debug\net8.0\1.variables.pdb
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.dll
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\refint\1.variables.dll
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.pdb
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\1.variables.genruntimeconfig.cache
+C:\Users\BeCode\Desktop\net\1.variables\obj\Debug\net8.0\ref\1.variables.dll
