@@ -27,3 +27,8 @@ decimal n_3 = x / 6m;
 Console.WriteLine(n_1);
 Console.WriteLine(n_2);
 Console.WriteLine(n_3);
+
+
+// Go futher
+string file = "c-sharp.pdf";
+Console.WriteLine(@$"c:\user\{file}");

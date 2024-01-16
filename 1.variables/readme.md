@@ -57,3 +57,22 @@ int age = 23;
 Console.WriteLine($"Hello {name}, you are { age } old");
 ```
 
+# Parsing 
+
+Sometimes, obtaining a result as a float, double, or decimal is crucial. It's essential to declare the appropriate variable type to ensure that the expected result aligns with the chosen variable type.
+
+```cs
+int x = 34;
+int y = 6;
+
+float n_1 = x / 6f;
+double n_2 = x / 6d;
+decimal n_3 = x / 6m;
+
+float n_4 = (float) x / y;
+double n_5 = (double) x / y;
+decimal n_6 = (decimal) x / y;
+```
+
+
+
